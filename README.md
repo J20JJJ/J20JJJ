@@ -150,12 +150,34 @@
 </details>
 
 
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+  <div align="center">
+    <a href="https://github.com/J20JJJ/MusiJuego">
+      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=MusiJuego&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="MusiJuego">
+    </a>
+    <a href="https://github.com/J20JJJ/Proyecto-Trimestre">
+      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=Proyecto-Trimestre&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="Proyecto-Trimestre">
+    </a>
+    <a href="https://github.com/J20JJJ/minecraftle">
+      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=minecraftle&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="minecraftle">
+    </a>
+    <a href="https://github.com/J20JJJ/characterIAapi">
+      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=characterIAapi&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="characterIAapi">
+    </a>
+  </div>
+</details>
+
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j20jjj&show_icons=true&locale=en&layout=compact" alt="j20jjj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j20jjj&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=2E91F7&text_color=C9D1D9&icon_color=36BCF7&border_color=30363D" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=j20jjj&show_icons=true&locale=en" alt="j20jjj" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j20jjj&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=2E91F7&text_color=C9D1D9&icon_color=36BCF7&border_color=30363D" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j20jjj" alt="j20jjj" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j20jjj&theme=react&background=1F222E&ring=2E91F7&fire=2E91F7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
+
 
