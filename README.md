@@ -38,7 +38,6 @@
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -150,24 +149,27 @@
 </details>
 
 
-<details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+<details> 
+  <summary><h2>📌 <strong>My Favorite Repositories</strong></h2></summary>
 
   <div align="center">
     <a href="https://github.com/J20JJJ/MusiJuego">
-      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=MusiJuego&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="MusiJuego">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=MusiJuego&theme=react" alt="MusiJuego">
     </a>
     <a href="https://github.com/J20JJJ/Proyecto-Trimestre">
-      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=Proyecto-Trimestre&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="Proyecto-Trimestre">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=Proyecto-Trimestre&theme=react" alt="Proyecto-Trimestre">
     </a>
     <a href="https://github.com/J20JJJ/minecraftle">
-      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=minecraftle&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="minecraftle">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=minecraftle&theme=react" alt="minecraftle">
     </a>
     <a href="https://github.com/J20JJJ/characterIAapi">
-      <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=characterIAapi&theme=react&bg_color=1F222E&title_color=2E91F7&icon_color=36BCF7&show_description=true&hide_border=true" alt="characterIAapi">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=J20JJJ&repo=characterIAapi&theme=react" alt="characterIAapi">
     </a>
   </div>
 </details>
+
+
+
 
 
 
